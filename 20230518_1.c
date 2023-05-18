@@ -114,5 +114,3 @@ unsigned char shift(unsigned char c)
 	}
 	return(c);
 }
-
-
